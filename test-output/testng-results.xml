@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-25T15:48:10 IST" name="ClearTripSuite" finished-at="2026-05-25T15:49:27 IST" duration-ms="77189">
+    <groups>
+    </groups>
+    <test started-at="2026-05-25T15:48:10 IST" name="FlightTest" finished-at="2026-05-25T15:49:27 IST" duration-ms="77189">
+      <class name="com.cleartrip.tests.FlightSearchTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.cleartrip.tests.FlightSearchTest@37313c65]" started-at="2026-05-25T15:48:10 IST" name="start" finished-at="2026-05-25T15:48:18 IST" duration-ms="7235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="searchFlightTest()[pri:0, instance:com.cleartrip.tests.FlightSearchTest@37313c65]" started-at="2026-05-25T15:48:18 IST" name="searchFlightTest" finished-at="2026-05-25T15:49:27 IST" duration-ms="69403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchFlightTest -->
+        <test-method is-config="true" signature="stop()[pri:0, instance:com.cleartrip.tests.FlightSearchTest@37313c65]" started-at="2026-05-25T15:49:27 IST" name="stop" finished-at="2026-05-25T15:49:27 IST" duration-ms="432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+      </class> <!-- com.cleartrip.tests.FlightSearchTest -->
+    </test> <!-- FlightTest -->
+  </suite> <!-- ClearTripSuite -->
+</testng-results>
